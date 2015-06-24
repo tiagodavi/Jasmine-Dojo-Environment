@@ -1,0 +1,10 @@
+== Jasmine Dojo Environment
+
+This is a simple dojo environment to use with `Jasmine` and `Node.js`
+
+To use this, clone this repo and call `npm install` at the root directory.
+This will create a `/node-modules` folder with the necessary libraries (jasmine-node).
+
+After that, you can run `jasmine-node . --color --autotest ` and it will run your tests automatically and watch any change on files at `/app` folder.
+
+Have fun :)
