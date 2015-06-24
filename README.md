@@ -1,4 +1,4 @@
-== Jasmine Dojo Environment
+## Jasmine Dojo Environment
 
 This is a simple dojo environment to use with <b>Jasmine</b> and <b>Node.js</b>
 
